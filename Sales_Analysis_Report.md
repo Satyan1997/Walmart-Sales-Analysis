@@ -1,5 +1,5 @@
 
-# 📊Exploratory Data Analysis for Walmart Sales
+# 📊Exploratory Data Analysis for Walmart Sales Data
 
 This document summarizes SQL queries executed on the **FactSales** dataset and provides observations and analysis for each.
 
