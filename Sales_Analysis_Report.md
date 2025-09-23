@@ -1,5 +1,5 @@
 
-# 📊Sales Data Analysis Report
+# 📊Walmat Sales Data Analysis Report
 
 This document summarizes SQL queries executed on the **FactSales** dataset and provides observations and analysis for each.
 
