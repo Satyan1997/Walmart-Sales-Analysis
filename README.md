@@ -139,6 +139,9 @@ Home & Kitchen = balanced.
 
 ---
 
+## 🖥️ Final DashBoard
+<img width="1293" height="730" alt="image" src="https://github.com/user-attachments/assets/ed9bc281-e972-40c0-a609-8a3a9b8dd7ff" />
+
 ## 🔮 Strategic Outlook
 
 **Predictions:**
